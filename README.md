@@ -176,13 +176,44 @@ frontend/src/
 
 ## 📸 Screenshots
 
-Add screenshots to `/docs/screenshots/` folder:
-- Public offer listing
-- Offer detail and booking
-- Booking confirmation with QR
-- Admin dashboard
-- Offer management
-- Swagger API docs
+All screenshots are located in the [`docs/screenshots/`](docs/screenshots/) folder.
+
+### 🌐 Frontend Screenshots (`docs/screenshots/frontend/`)
+
+| # | Screenshot |
+|---|-----------|
+| 1 | ![Screen 1](docs/screenshots/frontend/1.png) |
+| 2 | ![Screen 2](docs/screenshots/frontend/2.png) |
+| 3 | ![Screen 3](docs/screenshots/frontend/3.png) |
+| 4 | ![Screen 4](docs/screenshots/frontend/4.png) |
+| 5 | ![Screen 5](docs/screenshots/frontend/5.png) |
+| 6 | ![Screen 6](docs/screenshots/frontend/6.png) |
+| 7 | ![Screen 7](docs/screenshots/frontend/7.png) |
+| 8 | ![Screen 8](docs/screenshots/frontend/8.png) |
+| 9 | ![Screen 9](docs/screenshots/frontend/9.png) |
+| 10 | ![Screen 10](docs/screenshots/frontend/10.png) |
+| 11 | ![Screen 11](docs/screenshots/frontend/11.png) |
+| 12 | ![Screen 12](docs/screenshots/frontend/12.png) |
+| 13 | ![Screen 13](docs/screenshots/frontend/13.png) |
+| 14 | ![Screen 14](docs/screenshots/frontend/14.png) |
+| 15 | ![Screen 15](docs/screenshots/frontend/15.png) |
+| 16 | ![Screen 16](docs/screenshots/frontend/16.png) |
+| 17 | ![Screen 17](docs/screenshots/frontend/17.png) |
+| 18 | ![Screen 18](docs/screenshots/frontend/18.png) |
+| 19 | ![Screen 19](docs/screenshots/frontend/19.png) |
+| 20 | ![Screen 20](docs/screenshots/frontend/20.png) |
+| 21 | ![Screen 21](docs/screenshots/frontend/21.png) |
+
+### 🔌 Swagger API Screenshots (`docs/screenshots/swagger/`)
+
+| # | Screenshot |
+|---|-----------|
+| 1 | ![Swagger 1](docs/screenshots/swagger/1.png) |
+| 2 | ![Swagger 2](docs/screenshots/swagger/2.png) |
+| 3 | ![Swagger 3](docs/screenshots/swagger/3.png) |
+| 4 | ![Swagger 4](docs/screenshots/swagger/4.png) |
+| 5 | ![Swagger 5](docs/screenshots/swagger/5.png) |
+| 6 | ![Swagger 6](docs/screenshots/swagger/6.png) |
 
 ## 🎥 Demo Video
 
